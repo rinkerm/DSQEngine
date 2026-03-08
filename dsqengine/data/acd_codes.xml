@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACDCodes>
+    <ACDCode>
+        <Code>A04</Code>
+        <Description>Driving or operating a CMV under the influence of alcohol with BAC of at least .04 but not greater than .079</Description>
+        <Abbreviation>DUI04BACPLI</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>BAC Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A08</Code>
+        <Description>Driving or operating a motor vehicle under the influence of alcohol with BAC at or over .08</Description>
+        <Abbreviation>DUI&#8805;08BACPLI</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>BAC Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A10</Code>
+        <Description>Driving or operating a motor vehicle under the influence of alcohol with BAC at or over .10</Description>
+        <Abbreviation>DUI&#8805;10BACPLI</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>BAC Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A11</Code>
+        <Description>Driving or operating a motor vehicle under the influence of alcohol with BAC at _ _ (detail field required)</Description>
+        <Abbreviation>DUI&#8805;BAC PLI:</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>BAC Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A12</Code>
+        <Description>Refused to submit to test for alcohol - Implied Consent Law</Description>
+        <Abbreviation>REFUSED TEST</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>BAC Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A20</Code>
+        <Description>Driving or operating a motor vehicle under the infiluence of alcohol or drugs</Description>
+        <Abbreviation>DUI ALC/DRUG</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A21</Code>
+        <Description>Driving or operating a motor vehicle under the infiluence of alcohol</Description>
+        <Abbreviation>DUI ALCOHOL*</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A22</Code>
+        <Description>Driving or operating a motor vehicle under the infiluence of drugs</Description>
+        <Abbreviation>DUI OF DRUGS</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A23</Code>
+        <Description>Driving or operating a motor vehicle under the infiluence of alcohol and drugs</Description>
+        <Abbreviation>DUI ALC&amp;DRUG</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A24</Code>
+        <Description>Driving or operating a motor vehicle under the infiluence of medication not intended to intoxicate</Description>
+        <Abbreviation>DUI MEDICATN</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A25</Code>
+        <Description>Driving or operating a motor vehicle while impaired</Description>
+        <Abbreviation>DRV IMPAIRED</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A26</Code>
+        <Description>Drinking alcohol while driving or operating a motor vehicle</Description>
+        <Abbreviation>DRNK WH OPER</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>DUI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A31</Code>
+        <Description>Illegal possession of alcohol</Description>
+        <Abbreviation>POSS ALCOHOL</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>POS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A33</Code>
+        <Description>Illegal possession of drugs (controlled substances)</Description>
+        <Abbreviation>POSSESS DRUG</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>POS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A35</Code>
+        <Description>Possession of open alcohol container while driving or operating a motor vehicle</Description>
+        <Abbreviation>OPEN CONTAIN</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>POS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A41</Code>
+        <Description>Driver violation of ignition interlock or immobilization device and/or lease agreement</Description>
+        <Abbreviation>NTRLOCK VIOL</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>IID Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A50</Code>
+        <Description>Motor vehicle used in the commission of a felony involving manufacturing, distributing, or dispensing a controlled substance</Description>
+        <Abbreviation>VEH:CNTR SUB</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>TCS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A60</Code>
+        <Description>Underage convicted of drinking, and driving or operating a motor vehicle over the lowest BAC level limit allowed by the jurisdiction</Description>
+        <Abbreviation>UNAGE D*DCOV</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>UDG Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A61</Code>
+        <Description>Underage Administrative Per Se - drinking, and driving or operating a motor vehicle over the lowest BAC level limit allowed by the jurisdiction</Description>
+        <Abbreviation>UNAGE D*DADM</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>UDG Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A90</Code>
+        <Description>Administrative Per Se for BAC at or over .10</Description>
+        <Abbreviation>DUI@10ADMIN*</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>Administrative Per Se</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A91</Code>
+        <Description>Administrative Per Se for BAC at _ _ (detail field required)</Description>
+        <Abbreviation>DUI@--ADMIN*</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>Administrative Per Se</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A94</Code>
+        <Description>Administrative Per Se for BAC of at least .04 but not greater than .079 while driving or operating a CMV</Description>
+        <Abbreviation>DUI@04ADMIN*</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>Administrative Per Se</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A95</Code>
+        <Description>Administrative Per Se for Drugs</Description>
+        <Abbreviation>APS DRUG</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>Administrative Per Se</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>A98</Code>
+        <Description>Administrative Per Se for BAC at or over .08</Description>
+        <Abbreviation>DUI@08ADMIN*</Abbreviation>
+        <Category>Alcohol and Drug</Category>
+        <Group>Administrative Per Se</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B01</Code>
+        <Description>Hit and run - failure to stop and render aid after crash</Description>
+        <Abbreviation>H&amp;R AFTR ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B02</Code>
+        <Description>Hit and run - failure to stop and render aid after crash - Fatal crash</Description>
+        <Abbreviation>H&amp;R: FAT ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B03</Code>
+        <Description>Hit and run - failure to stop and render aid after crash - Personal injury crash</Description>
+        <Abbreviation>H&amp;R: INJ ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B04</Code>
+        <Description>Hit and run - failure to stop and render aid after crash - Property damage crash</Description>
+        <Abbreviation>H&amp;R: PDO ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B05</Code>
+        <Description>Leaving crash scene before police arrive</Description>
+        <Abbreviation>LVSC AFT ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B06</Code>
+        <Description>Leaving crash scene before police arrive - Fatal crash</Description>
+        <Abbreviation>LVSC:FAT ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B07</Code>
+        <Description>Leaving crash scene before police arrive - Personal injury crash</Description>
+        <Abbreviation>LVSC:INJ ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B08</Code>
+        <Description>Leaving crash scene before police arrive - Property damage crash</Description>
+        <Abbreviation>LVSC:PDO ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B14</Code>
+        <Description>Failure to reveal identity after fatal or personal injury crash</Description>
+        <Abbreviation>FL RV ID ACC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>HRB Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B19</Code>
+        <Description>Driving or operating a CMV in violation of a driver or vehicle out-of-service order while transporting hazardous materials as defined in §383.5, or while driving or operating a vehicle designed to transport 16 or more passengers, including the driver</Description>
+        <Abbreviation>D W LIC OOSL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B20</Code>
+        <Description>Driving or operating a motor vehicle while license withdrawn</Description>
+        <Abbreviation>D W LIC WITH</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B21</Code>
+        <Description>Driving or operating a motor vehicle while license barred</Description>
+        <Abbreviation>D W LIC BARR</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B22</Code>
+        <Description>Driving or operating a motor vehicle while license cancelled</Description>
+        <Abbreviation>D W LIC CANC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B23</Code>
+        <Description>Driving or operating a motor vehicle while license denied</Description>
+        <Abbreviation>D W LIC DENI</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B24</Code>
+        <Description>Driving or operating a motor vehicle while license disqualified</Description>
+        <Abbreviation>D W LIC DISQ</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B25</Code>
+        <Description>Driving or operating a motor vehicle while license revoked</Description>
+        <Abbreviation>D W LIC REVK</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B26</Code>
+        <Description>Driving or operating a motor vehicle while license suspended</Description>
+        <Abbreviation>D W LIC SUSP</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B27</Code>
+        <Description>Driving or operating a CMV in violation of a driver or vehicle out-of-service order (for violations not covered by B19)</Description>
+        <Abbreviation>D W LIC OOSO</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DAW Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B41</Code>
+        <Description>Possess or provide counterfeit or altered driver license (includes DL, CDL, and Instruction Permit) or ID</Description>
+        <Abbreviation>ALT/CFT DLID</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B51</Code>
+        <Description>Expired or no non-commercial driver license or permit</Description>
+        <Abbreviation>EXP/NO DL/ID</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B56</Code>
+        <Description>Driving or operating a CMV without obtaining a CLP or CDL</Description>
+        <Abbreviation>CMV NO CDL**</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B57</Code>
+        <Description>Driving or operating a CMV without a CLP or CDL in the driver's possession</Description>
+        <Abbreviation>CMV NO CDL P</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B61</Code>
+        <Description>Failed to file crash report</Description>
+        <Abbreviation>FL FILE ACCR</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B63</Code>
+        <Description>Failed to file future proof of financial responsibility</Description>
+        <Abbreviation>FL FILE FUTP</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B64</Code>
+        <Description>Failed to file insurance certification</Description>
+        <Abbreviation>FL FILE INSR</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B65</Code>
+        <Description>Failed to file medical certification/disability information</Description>
+        <Abbreviation>FL FILE MEDC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B78</Code>
+        <Description>Failed to show non-commercial driver license (includes Instruction Permit)</Description>
+        <Abbreviation>FL SHOW ID</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>B91</Code>
+        <Description>Driving or operating without the proper class and/or endorsement on commercial or non-commercial permit or license for the specific vehicle group being operated or driven, or for the passengers or type of cargo being transported</Description>
+        <Abbreviation>IMP CLS/NDOR</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>DRM Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D02</Code>
+        <Description>Misrepresentation of identity or other facts on application, including required self-certifications, for non-commercial permit or license</Description>
+        <Abbreviation>MISREP ID DL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D06</Code>
+        <Description>Misrepresentation of identity or other facts to obtain alcohol</Description>
+        <Abbreviation>MISRP ID ALC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D07</Code>
+        <Description>Possess multiple driver licenses (includes DL, CDL, and Instruction Permit)</Description>
+        <Abbreviation>MULTIPLE DLS</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D10</Code>
+        <Description>Manufacture or make false driver license (includes DL, CDL, and Instruction Permit)</Description>
+        <Abbreviation>MAKE FAKE DL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D16</Code>
+        <Description>Show or use improperly - Driver license (includes DL, CDL, and Instruction Permit) while driving or operating a motor vehicle</Description>
+        <Abbreviation>USE IMP DLID</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D27</Code>
+        <Description>Violate limited license conditions</Description>
+        <Abbreviation>VIO LTD LICN</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D29</Code>
+        <Description>Violate restrictions of driver license (includes DL, CDL, and Instruction Permit)</Description>
+        <Abbreviation>VIO RESTRICT</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D30</Code>
+        <Description>Misrepresentation of identity or other facts on application, including required self-certifications, for CLP or CDL</Description>
+        <Abbreviation>MISRP ID CDL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D31</Code>
+        <Description>Fraud related to the issuance of a CLP or CDL</Description>
+        <Abbreviation>FR CLP CDL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MIS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D35</Code>
+        <Description>Failure to comply with financial responsibility law</Description>
+        <Abbreviation>FINANCL RESP</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FRI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D36</Code>
+        <Description>Failure to maintain required liability insurance</Description>
+        <Abbreviation>NO LIABL INS</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FRI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D37</Code>
+        <Description>Failure to pay for damages or make installment payment</Description>
+        <Abbreviation>FTP DAM/INST</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FRI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D38</Code>
+        <Description>Failure to post security or obtain release from liability</Description>
+        <Abbreviation>NO SECUR/REL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FRI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D39</Code>
+        <Description>Unsatisfied judgment</Description>
+        <Abbreviation>UNSATIS JUDG</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FRI Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D45</Code>
+        <Description>Failure to appear for trial or court appearance (detail sometimes required)</Description>
+        <Abbreviation>FTA: TRIL/CT</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FTAP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D51</Code>
+        <Description>Failure to make required payment of child support</Description>
+        <Abbreviation>FTP: CH SUPT</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FTAP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D53</Code>
+        <Description>Failure to make required payment of fine and costs (detail sometimes required)</Description>
+        <Abbreviation>FTP: FINE***</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FTAP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D56</Code>
+        <Description>Failure to answer a citation, pay fines, penalties and/or costs related to the original violation (detail sometimes required)</Description>
+        <Abbreviation>FTA: FOR ORG</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>FTAP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D70</Code>
+        <Description>Driver's view obstructed</Description>
+        <Abbreviation>VIEW OBSTRUC</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MDF Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D72</Code>
+        <Description>Inability to control vehicle</Description>
+        <Abbreviation>NO CONTR VEH</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MDF Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D74</Code>
+        <Description>Driving or operating a motor vehicle improperly because of drowsiness</Description>
+        <Abbreviation>OPER: DROWSY</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MDF Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D75</Code>
+        <Description>Driving or operating a motor vehicle improperly due to physical or mental disability</Description>
+        <Abbreviation>OPER W DISAB</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MDF Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>D78</Code>
+        <Description>Perjury about the operation of a motor vehicle</Description>
+        <Abbreviation>PERJURY VEHL</Abbreviation>
+        <Category>Duties Failed</Category>
+        <Group>MDF Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E01</Code>
+        <Description>Operating without equipment as required by law</Description>
+        <Abbreviation>OMIT EQUPMNT</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E02</Code>
+        <Description>Operating without brakes as required by law</Description>
+        <Abbreviation>OMIT BRAKES*</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E03</Code>
+        <Description>Operating without hazmat safety equipment as required by law</Description>
+        <Abbreviation>OMIT HZM SAF</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E04</Code>
+        <Description>Operating without hazmat placards/markings as required by law</Description>
+        <Abbreviation>OMIT HZM MRK</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E05</Code>
+        <Description>Operating without lights as required by law</Description>
+        <Abbreviation>OMIT LIGHTS*</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E06</Code>
+        <Description>Operating without school bus equipment as required by law</Description>
+        <Abbreviation>OMIT S B EQP</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E23</Code>
+        <Description>Use of radar or laser detector prohibited by law</Description>
+        <Abbreviation>PROH RADAR/L</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>PBL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E50</Code>
+        <Description>Failure to use equipment as required</Description>
+        <Abbreviation>NUSE EQUPMNT</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E51</Code>
+        <Description>Failure to use brakes</Description>
+        <Abbreviation>NUSE BRAKES*</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E53</Code>
+        <Description>Failure to use hazmat safety devices as required</Description>
+        <Abbreviation>NUSE HZM SAF</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E54</Code>
+        <Description>Failure to use headlight dimmer as required</Description>
+        <Abbreviation>FT DIM LIGHT</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E55</Code>
+        <Description>Failure to use lights as required</Description>
+        <Abbreviation>NUSE LIGHTS*</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E56</Code>
+        <Description>Failure to use school bus safety equipment as required</Description>
+        <Abbreviation>NUSE S B EQP</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E57</Code>
+        <Description>Failure to use snow tires or chains as required</Description>
+        <Abbreviation>NUSE SNO T/C</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>FTU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E70</Code>
+        <Description>Equipment used improperly or obstructed</Description>
+        <Abbreviation>MPRP EQUPMNT</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>IEU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>E71</Code>
+        <Description>Brakes used improperly</Description>
+        <Abbreviation>MPRP BRAKES*</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>IEU Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F02</Code>
+        <Description>Child or youth restraint not used properly as required</Description>
+        <Abbreviation>C/Y NOT USED</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F03</Code>
+        <Description>Motorcycle safety equipment not used properly as required</Description>
+        <Abbreviation>M/C EQ N USD</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F04</Code>
+        <Description>Seat belt not used properly as required</Description>
+        <Abbreviation>S B NOT USED</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F05</Code>
+        <Description>Carrying unsecured passengers in open area of vehicle</Description>
+        <Abbreviation>PASS N OPN V</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F06</Code>
+        <Description>Improper operation of or riding on a motorcycle</Description>
+        <Abbreviation>IMP OP/RD MC</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>RPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>F34</Code>
+        <Description>Stopping, standing, or parking: obstructing or impeding traffic with a motor vehicle</Description>
+        <Abbreviation>OBSTR TRAFFC</Abbreviation>
+        <Category>Equipment / Vehicles</Category>
+        <Group>SSP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M02</Code>
+        <Description>Failure to obey barrier</Description>
+        <Abbreviation>FTO BARRIER*</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M03</Code>
+        <Description>Failure to obey construction or maintenance zone markers</Description>
+        <Abbreviation>FTO CNST/MNT</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M04</Code>
+        <Description>Failure to obey filagger</Description>
+        <Abbreviation>FTO FLAGGER*</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M05</Code>
+        <Description>Failure to obey lane markings or signal</Description>
+        <Abbreviation>FTO LANE MRK</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M08</Code>
+        <Description>Failure to obey police or peace officer</Description>
+        <Abbreviation>FTO OFFICER*</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M09</Code>
+        <Description>For all individuals driving or operating a motor vehicle, failure to obey railroad-highway grade crossing restrictions not specifically noted in other railroad-highway grade crossing related codes.</Description>
+        <Abbreviation>FTO RR RESTR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M10</Code>
+        <Description>For all individuals driving or operating a CMV, failure to obey a traffic control device or the directions of an enforcement official at a railroad-highway grade crossing.</Description>
+        <Abbreviation>FTO RR GAT/S</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M11</Code>
+        <Description>Failure to obey restricted lane</Description>
+        <Abbreviation>FTO RST LANE</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M12</Code>
+        <Description>Failure to obey safety zone</Description>
+        <Abbreviation>FTO SAF ZONE</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M13</Code>
+        <Description>Failure to obey school crossing guard</Description>
+        <Abbreviation>FTO SCH XING</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M14</Code>
+        <Description>Failure to obey sign or traffic control device</Description>
+        <Abbreviation>FTO SIGN/TCD</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M15</Code>
+        <Description>Failure to obey stop sign</Description>
+        <Abbreviation>FTO STP SIGN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M16</Code>
+        <Description>Failure to obey traffic signal or light</Description>
+        <Abbreviation>FTO TRF SGNL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M17</Code>
+        <Description>Failure to obey traffic sign</Description>
+        <Abbreviation>FTO TRF SIGN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M18</Code>
+        <Description>Failure to obey warning light or filasher</Description>
+        <Abbreviation>FTO WARN LIT</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M19</Code>
+        <Description>Failure to obey yield sign</Description>
+        <Abbreviation>FTO YLD SIGN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M20</Code>
+        <Description>For individuals driving or operating a CMV who are not required to always stop, failure to slow down at a railroad-highway grade crossing and check that tracks are clear of approaching train.</Description>
+        <Abbreviation>FTO RR NSLOW</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M21</Code>
+        <Description>For individuals driving or operating a CMV who are not required to always stop, failure to stop before reaching tracks at a railroad-highway grade crossing when the tracks are not clear.</Description>
+        <Abbreviation>FTO RR NSTOP</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M22</Code>
+        <Description>For individuals driving or operating a CMV who are always required to stop, failure to stop as required before driving onto railroad-highway grade crossing.</Description>
+        <Abbreviation>FTO RR DRIVE</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M23</Code>
+        <Description>For all individuals driving or operating a CMV, failing to have sufficient space to drive completely through the railroad-highway grade crossing without stopping.</Description>
+        <Abbreviation>FTO RR SPACE</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M24</Code>
+        <Description>For all individuals driving or operating a CMV, failing to negotiate a railroad-highway grade crossing because of insufficient undercarriage clearance.</Description>
+        <Abbreviation>FTO RR CLRNC</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M25</Code>
+        <Description>Failure to stop - basic rule at unsigned intersection or when entering roadway from private driveway, alley, etc.</Description>
+        <Abbreviation>FAIL TO STOP</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTO Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M30</Code>
+        <Description>Following improperly</Description>
+        <Abbreviation>FOL IMPROPER</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FOL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M31</Code>
+        <Description>Failure to leave sufficient distance for overtaking by other vehicles</Description>
+        <Abbreviation>NSF DIST PAS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FOL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M32</Code>
+        <Description>Following emergency vehicle unlawfully</Description>
+        <Abbreviation>FOL EMER VEH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FOL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M33</Code>
+        <Description>Following fire equipment unlawfully</Description>
+        <Abbreviation>FOL FIRE EQU</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FOL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M34</Code>
+        <Description>Following too closely</Description>
+        <Abbreviation>FOL TOO CLOS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FOL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M40</Code>
+        <Description>Improper lane or location</Description>
+        <Abbreviation>IMPROPR LOCA</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M41</Code>
+        <Description>Failure to keep in proper lane</Description>
+        <Abbreviation>STRAY FRM LN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M42</Code>
+        <Description>Improper or erratic (unsafe) lane changes</Description>
+        <Abbreviation>IMPR LANE CH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M43</Code>
+        <Description>Ran off road</Description>
+        <Abbreviation>RAN OFF ROAD</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M44</Code>
+        <Description>Improper lane or location - crossover</Description>
+        <Abbreviation>IMP LOC XOVR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M45</Code>
+        <Description>Improper lane or location - crosswalk</Description>
+        <Abbreviation>IMP LOC XWLK</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M46</Code>
+        <Description>Improper lane or location - entrance/exit ramp or way</Description>
+        <Abbreviation>IMP LOC RAMP</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M47</Code>
+        <Description>Improper lane or location - in bicycle lane</Description>
+        <Abbreviation>IMP LOC BIKE</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M48</Code>
+        <Description>Improper lane or location - in occupied lane</Description>
+        <Abbreviation>IMP LOC OCCL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M49</Code>
+        <Description>Improper lane or location - in HOV or restricted lane</Description>
+        <Abbreviation>IMP LOC HOVL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M50</Code>
+        <Description>Improper lane or location - limited access highway</Description>
+        <Abbreviation>IMP LOC LTAC</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M51</Code>
+        <Description>Improper lane or location - median</Description>
+        <Abbreviation>IMP LOC MEDN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M55</Code>
+        <Description>Improper lane or location - on rail or streetcar tracks</Description>
+        <Abbreviation>IMP LOC TRAK</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M56</Code>
+        <Description>Improper lane or location - on fire hose</Description>
+        <Abbreviation>IMP LOC FHOS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M57</Code>
+        <Description>Improper lane or location - oncoming traffic lane</Description>
+        <Abbreviation>IMP LOC ONCM</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M58</Code>
+        <Description>Improper lane or location - road shoulder, ditch or sidewalk</Description>
+        <Abbreviation>IMP LOC SHLD</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M60</Code>
+        <Description>Improper lane or location - slower vehicle lane</Description>
+        <Abbreviation>IMP LOC SLOV</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M61</Code>
+        <Description>Improper lane or location - straddling center line(s) GImropurpop)er lane or location - traveling in turn (or center) lane</Description>
+        <Abbreviation>IMP LOC CNTR IMP LOC TURN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M62</Code>
+        <Description>Improper lane or location - traveling in turn (or center) lane</Description>
+        <Abbreviation>IMP LOC TURN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>ILL Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M70</Code>
+        <Description>Improper passing</Description>
+        <Abbreviation>IMPROPR PASS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M71</Code>
+        <Description>Passing in violation of posted sign or pavement marking</Description>
+        <Abbreviation>PAS PST SIGN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M72</Code>
+        <Description>Passing in violation of opposite directions restriction</Description>
+        <Abbreviation>PAS OP DIREC</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M73</Code>
+        <Description>Passing on wrong side</Description>
+        <Abbreviation>PAS WRNG SID</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M74</Code>
+        <Description>Passing on hill or curve</Description>
+        <Abbreviation>PASS HIL/CRV</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M75</Code>
+        <Description>Passing school bus displaying warning not to pass</Description>
+        <Abbreviation>PASS SCH BUS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M76</Code>
+        <Description>Passing where prohibited</Description>
+        <Abbreviation>PASS WH PROH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M77</Code>
+        <Description>Passing with insufficient distance or visibility</Description>
+        <Abbreviation>PAS NSF DIST</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>PAS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M80</Code>
+        <Description>Inattentive/distracted, careless, or negligent driving or operating a motor vehicle</Description>
+        <Abbreviation>IN/CAREL/NEG</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M81</Code>
+        <Description>Careless driving or operating a motor vehicle</Description>
+        <Abbreviation>CARELESS DRI</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M82</Code>
+        <Description>Inattentive/distractive driving or operating a motor vehicle</Description>
+        <Abbreviation>INATTENT DRI</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M83</Code>
+        <Description>Negligent driving or operating a motor vehicle</Description>
+        <Abbreviation>NEGLIGENT DR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M84</Code>
+        <Description>Reckless driving or operating a motor vehicle</Description>
+        <Abbreviation>RECKLESS DRI</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M85</Code>
+        <Description>Texting while driving or operating a motor vehicle</Description>
+        <Abbreviation>TEXT WH DRIV</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>M86</Code>
+        <Description>Violating prohibition on using a hand-held mobile telephone or other electronic mobile device while driving or operating a motor vehicle</Description>
+        <Abbreviation>HHMT WH DRIV</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>RCN Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N01</Code>
+        <Description>Failure to yield right of way (FTY ROW)</Description>
+        <Abbreviation>FT YLD R O W</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N02</Code>
+        <Description>FTY ROW to animal rider or animal-drawn vehicle</Description>
+        <Abbreviation>FY 2 AN/RIDR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N03</Code>
+        <Description>FTY ROW to cyclist</Description>
+        <Abbreviation>FY 2 CYCLIST</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N04</Code>
+        <Description>FTY ROW to emergency vehicle (i.e., ambulance, fire equipment, police, etc.)</Description>
+        <Abbreviation>FY 2 EMR VEH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N05</Code>
+        <Description>FTY ROW to funeral procession, procession or parade</Description>
+        <Abbreviation>FY 2 FUNERAL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N06</Code>
+        <Description>FTY ROW to other vehicle</Description>
+        <Abbreviation>FY 2 OTH VEH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N07</Code>
+        <Description>FTY ROW to overtaking vehicle</Description>
+        <Abbreviation>FY 2 OVT VEH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N08</Code>
+        <Description>FTY ROW to pedestrian (includes handicapped or blind)</Description>
+        <Abbreviation>FY 2 PEDESTR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N09</Code>
+        <Description>FTY ROW to school bus</Description>
+        <Abbreviation>FY 2 SCH BUS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N20</Code>
+        <Description>FTY ROW at crosswalk</Description>
+        <Abbreviation>FTY ROW@XWLK</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N21</Code>
+        <Description>FTY ROW at rotary/roundabout/circular intersection</Description>
+        <Abbreviation>FTY ROW@ROTR</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N22</Code>
+        <Description>FTY ROW at stop sign</Description>
+        <Abbreviation>FTY ROW@STOP</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N23</Code>
+        <Description>FTY ROW at traffic sign</Description>
+        <Abbreviation>FTY ROW@T SN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N24</Code>
+        <Description>FTY ROW at traffic signal</Description>
+        <Abbreviation>FTY ROW@T SG</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N25</Code>
+        <Description>FTY ROW at unsigned intersection</Description>
+        <Abbreviation>FTY ROW@UNSN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N26</Code>
+        <Description>FTY ROW at yield sign</Description>
+        <Abbreviation>FTY ROW@YLDS</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N30</Code>
+        <Description>FTY ROW when warning displayed on other vehicle SignFaTlY ( FRTOSW G wrohuepn) turning</Description>
+        <Abbreviation>FTY ROWWWARN FTY ROWWTURN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N31</Code>
+        <Description>FTY ROW when turning</Description>
+        <Abbreviation>FTY ROWWTURN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTY Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N40</Code>
+        <Description>Failure to use or improper signal</Description>
+        <Abbreviation>IMPROPER SIG</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N41</Code>
+        <Description>Failure to cancel directional signals</Description>
+        <Abbreviation>FT CANC SGNL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N42</Code>
+        <Description>Failure to signal intention to pass</Description>
+        <Abbreviation>FTS: PASSING</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N43</Code>
+        <Description>Failure to signal lane change or turn</Description>
+        <Abbreviation>FTS CHNG/TRN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N44</Code>
+        <Description>Giving wrong signal</Description>
+        <Abbreviation>WRONG SIGNAL</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>FTS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N50</Code>
+        <Description>Improper turn</Description>
+        <Abbreviation>IMPROPR TURN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N51</Code>
+        <Description>Improper method of turning</Description>
+        <Abbreviation>IMP TRN METH</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N52</Code>
+        <Description>Improper position for turning</Description>
+        <Abbreviation>IMP TRN PSTN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N53</Code>
+        <Description>Making improper left turn</Description>
+        <Abbreviation>IMP LEFT TRN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N54</Code>
+        <Description>Making improper right turn</Description>
+        <Abbreviation>IMP RGHT TRN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N55</Code>
+        <Description>Making improper turn around (not U turn)</Description>
+        <Abbreviation>IM TRN ROUND</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N56</Code>
+        <Description>Making improper U turn</Description>
+        <Abbreviation>IMPROP U TRN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>IMT Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N60</Code>
+        <Description>Driving wrong way</Description>
+        <Abbreviation>DR WRONG WAY</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N61</Code>
+        <Description>Driving wrong way at rotary/roundabout/circular intersection</Description>
+        <Abbreviation>WW AT ROTARY</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N62</Code>
+        <Description>Driving wrong way on divided highway</Description>
+        <Abbreviation>WW ON DIV HW</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N63</Code>
+        <Description>Driving wrong way on one way street or road</Description>
+        <Abbreviation>WW ON ONEWAY</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N70</Code>
+        <Description>Driving on wrong side</Description>
+        <Abbreviation>DR WRONG SID</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N71</Code>
+        <Description>Driving on wrong side of divided highway</Description>
+        <Abbreviation>WS ON DIV HW</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N72</Code>
+        <Description>Driving on wrong side of undivided street or road</Description>
+        <Abbreviation>WS ON UNDIVD</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>WWS Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N80</Code>
+        <Description>Coasting (operating with gears disengaged)</Description>
+        <Abbreviation>COASTING ***</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>MMV Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N82</Code>
+        <Description>Improper backing</Description>
+        <Abbreviation>IMPROP BACKN</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>MMV Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N83</Code>
+        <Description>Improper start from parked position</Description>
+        <Abbreviation>IMPROP START</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>MMV Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>N84</Code>
+        <Description>Unsafe operation</Description>
+        <Abbreviation>UNSAFE OPERA</Abbreviation>
+        <Category>Maneuvers</Category>
+        <Group>MMV Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S01</Code>
+        <Description>01-05 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 01-05</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S06</Code>
+        <Description>06-10 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 06-10</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S14</Code>
+        <Description>11-14 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 11-14</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S15</Code>
+        <Description>Speeding 15 mph or more above regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 15&amp;GR</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S16</Code>
+        <Description>16-20 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 16-20</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S21</Code>
+        <Description>21-25 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 21-25</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S26</Code>
+        <Description>26-30 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 26-30</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S31</Code>
+        <Description>31-35 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 31-35</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S36</Code>
+        <Description>36-40 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 36-40</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S41</Code>
+        <Description>41+ &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS: 41&amp;GR</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S51</Code>
+        <Description>01-10 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>S51 SP XS: 01-10</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S71</Code>
+        <Description>21-30 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S81</Code>
+        <Description>31-40 &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S91</Code>
+        <Description>41+ &gt; Regulated or posted speed limit (detail optional)</Description>
+        <Abbreviation>SP XS</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S92</Code>
+        <Description>Speeding - Regulated or posted speed limit and actual speed (detail required)</Description>
+        <Abbreviation>SPEED DTAIL</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPE Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S93</Code>
+        <Description>Speeding</Description>
+        <Abbreviation>SPEEDING****</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S94</Code>
+        <Description>Prima Facie speed violation or driving too fast for conditions</Description>
+        <Abbreviation>PRIMA FACIE*</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S95</Code>
+        <Description>Speed contest (racing) on road open to traffic</Description>
+        <Abbreviation>RACE CONTEST</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S96</Code>
+        <Description>Speed less than minimum</Description>
+        <Abbreviation>INSUFF SPEED</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S97</Code>
+        <Description>Operating or driving a motor vehicle at erratic or suddenly changing speeds</Description>
+        <Abbreviation>ERRATC SPEED</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>S98</Code>
+        <Description>Speeding on freeway ("wasting fuel")</Description>
+        <Abbreviation>WASTING FUEL</Abbreviation>
+        <Category>Speeding</Category>
+        <Group>SPD Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U01</Code>
+        <Description>Fleeing or evading police or roadblock</Description>
+        <Abbreviation>EVADING/FLEE</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U02</Code>
+        <Description>Resisting arrest while driving or operating a motor vehicle</Description>
+        <Abbreviation>RESIST ARRST</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U03</Code>
+        <Description>Using a motor vehicle in connection with a felony (not traffic offense)</Description>
+        <Abbreviation>VEH IN FELNY</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U04</Code>
+        <Description>Using a motor vehicle in connection with a misdemeanor (not traffic offense)</Description>
+        <Abbreviation>VEH IN MSDEM</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U05</Code>
+        <Description>Using a motor vehicle to aid and abet a felon</Description>
+        <Abbreviation>AID/ABET FEL</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U06</Code>
+        <Description>Vehicular assault</Description>
+        <Abbreviation>VEH ASSAULT*</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U07</Code>
+        <Description>Vehicular homicide</Description>
+        <Abbreviation>VEH HOMICIDE</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U08</Code>
+        <Description>Vehicular manslaughter</Description>
+        <Abbreviation>V MANSLAUGTR</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U09</Code>
+        <Description>Negligent homicide while driving or operating a CMV</Description>
+        <Abbreviation>CMV HOMICIDE</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U10</Code>
+        <Description>Causing a fatality through the negligent driving or operation of a CMV</Description>
+        <Abbreviation>CMV FATALITY</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U11</Code>
+        <Description>Using a CMV in the commission of severe forms of trafficking in persons.</Description>
+        <Abbreviation>HUMAN TRFFICKING</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U21</Code>
+        <Description>Illegal operation of emergency vehicle</Description>
+        <Abbreviation>IL OP EMRG V</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U27</Code>
+        <Description>Vehicular feticide (1st degree)</Description>
+        <Abbreviation>VEH FETIC 1</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U28</Code>
+        <Description>Vehicular feticide (2nd degree)</Description>
+        <Abbreviation>VEH FETIC 2</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VUP Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>U31</Code>
+        <Description>Violation resulting in fatal crash</Description>
+        <Abbreviation>VIO: FAT ACC</Abbreviation>
+        <Category>Unclassified</Category>
+        <Group>VCA Group</Group>
+        <IsConvictionCode>true</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>___</Code>
+        <Description>Withdrawal resulting from one designated conviction</Description>
+        <Abbreviation>--</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WRS Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W45</Code>
+        <Description>Suspended for driving or operating a CMV while disqualified for previous violations in a CMV</Description>
+        <Abbreviation>PR DISQ CMV</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WRS Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W00</Code>
+        <Description>Withdrawal, Non-ACD violation</Description>
+        <Abbreviation>NON-ACD*****</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W01</Code>
+        <Description>Accumulation of convictions (including point systems and/or being judged habitual offender or violator)</Description>
+        <Abbreviation>a ACCUM/HABVIO</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W72</Code>
+        <Description>Suspended pending final disposition</Description>
+        <Abbreviation>PEND FINAL</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W80</Code>
+        <Description>Failed employer-directed drug test</Description>
+        <Abbreviation>FAIL DRUG</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W81</Code>
+        <Description>Refusal to submit to an employer-directed drug test</Description>
+        <Abbreviation>REFUSE DRUG</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W82</Code>
+        <Description>Failure to surrender license or permit or otherwise comply with jurisdiction requirements</Description>
+        <Abbreviation>FTS LIC/PERM</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WJL Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W09</Code>
+        <Description>Failure to surrender hazmat endorsement as required by the USA PATRIOT Act</Description>
+        <Abbreviation>FTS HME</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W13</Code>
+        <Description>Parental consent withdrawn</Description>
+        <Abbreviation>PARNT CONSNT</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W14</Code>
+        <Description>Physical or mental disability</Description>
+        <Abbreviation>PHYS DISABLE</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W15</Code>
+        <Description>Physicians' or specialists' report recommended</Description>
+        <Abbreviation>PHYSICN REPT</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W20</Code>
+        <Description>Unable to pass DL test(s) or meet qualifications</Description>
+        <Abbreviation>FAILED QUAL*</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W27</Code>
+        <Description>Failure to make an appointment within 30 days of receiving notification that re-testing is necessary [when fraud is suspected]</Description>
+        <Abbreviation>FAIL RESCHED</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W28</Code>
+        <Description>Failure to retest or failure of scheduled test(s) [when fraud is suspected]</Description>
+        <Abbreviation>FAIL TO RTST</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIW Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W30</Code>
+        <Description>Two convictions for serious violations within three years</Description>
+        <Abbreviation>ACCUM2VIOL**</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W31</Code>
+        <Description>Three or more convictions for serious violations within three years</Description>
+        <Abbreviation>ACCUM3VIOl**</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W40</Code>
+        <Description>The accumulation of two or more convictions for major offenses</Description>
+        <Abbreviation>ACCUM2 MAJOR</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W41</Code>
+        <Description>An additional conviction for a major offense after reinstatement</Description>
+        <Abbreviation>ACCUM+ MAJOR</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W50</Code>
+        <Description>The accumulation of two convictions for out-of-service order general violations (violations not covered by W51) within 10 years</Description>
+        <Abbreviation>ACCUM2 OOSO*</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W51</Code>
+        <Description>The accumulation of two convictions for out-of-service order violations within 10 years where the second is while operating a vehicle designed to transport 16 or more passengers, including the driver and/or transporting hazardous materials as defined in § 383.5</Description>
+        <Abbreviation>ACCUM2 OOSOL</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W52</Code>
+        <Description>The accumulation of three or more convictions for out-of-service order violations within 10 years</Description>
+        <Abbreviation>ACCUM3 OOSO*</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W60</Code>
+        <Description>The accumulation of two convictions for RRGC violations within 3 years.</Description>
+        <Abbreviation>RRGC 2 AVIOL</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W61</Code>
+        <Description>The accumulation of three or more convictions for RRGC violations within years.</Description>
+        <Abbreviation>3 RRGC 3 AVIOL</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WSC Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+    <ACDCode>
+        <Code>W70</Code>
+        <Description>Imminent hazard</Description>
+        <Abbreviation>IMINT HAZAR</Abbreviation>
+        <Category>Withdrawals</Category>
+        <Group>WIH Group</Group>
+        <IsConvictionCode>false</IsConvictionCode>
+        <IsWithdrawalCode>true</IsWithdrawalCode>
+    </ACDCode>
+</ACDCodes>

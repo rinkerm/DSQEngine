@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:complexType name="ConvictionType">
+        <xs:sequence>
+            <xs:element name="ConvictionId" type="xs:string"/>
+            <xs:element name="ConvictionDate" type="xs:date"/>
+            <xs:element name="ACDCode" type="xs:string"/>
+            <xs:element name="NCLWithdrawal" type="xs:boolean"/>
+            <xs:element name="CDLHolder" type="xs:boolean"/>
+            <xs:element name="ViolationInCMV" type="xs:boolean"/>
+            <xs:element name="ViolationInHazmatVehicle" type="xs:boolean"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="Conviction" type="ConvictionType"/>
+</xs:schema>

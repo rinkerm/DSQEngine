@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:include schemaLocation="conviction.xsd"/>
+    <xs:complexType name="Incident">
+        <xs:sequence>
+            <xs:element name="IncidentId" type="xs:string"/>
+            <xs:element name="IncidentDate" type="xs:date"/>
+            <xs:element name="Jurisdiction" type="xs:string"/>
+            <xs:element name="Convictions">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="Conviction" type="Conviction" maxOccurs="unbounded"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:complexType>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
