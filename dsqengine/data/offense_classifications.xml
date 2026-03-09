@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OffenseClassifications>
+    <OffenseClassification>
+        <Name>Major</Name>
+        <ACDCodeRef>A04</ACDCodeRef>
+        <ACDCodeRef>A08</ACDCodeRef>
+        <ACDCodeRef>A10</ACDCodeRef>
+        <ACDCodeRef>A11</ACDCodeRef>
+        <ACDCodeRef>A12</ACDCodeRef>
+        <ACDCodeRef>A20</ACDCodeRef>
+        <ACDCodeRef>A21</ACDCodeRef>
+        <ACDCodeRef>A22</ACDCodeRef>
+        <ACDCodeRef>A23</ACDCodeRef>
+        <ACDCodeRef>A50</ACDCodeRef>
+        <ACDCodeRef>A90</ACDCodeRef>
+        <ACDCodeRef>A91</ACDCodeRef>
+        <ACDCodeRef>A94</ACDCodeRef>
+        <ACDCodeRef>A95</ACDCodeRef>
+        <ACDCodeRef>A98</ACDCodeRef>
+        <ACDCodeRef>B01</ACDCodeRef>
+        <ACDCodeRef>B02</ACDCodeRef>
+        <ACDCodeRef>B03</ACDCodeRef>
+        <ACDCodeRef>B04</ACDCodeRef>
+        <ACDCodeRef>B05</ACDCodeRef>
+        <ACDCodeRef>B06</ACDCodeRef>
+        <ACDCodeRef>B07</ACDCodeRef>
+        <ACDCodeRef>B08</ACDCodeRef>
+        <ACDCodeRef>B20</ACDCodeRef>
+        <ACDCodeRef>B21</ACDCodeRef>
+        <ACDCodeRef>B22</ACDCodeRef>
+        <ACDCodeRef>B23</ACDCodeRef>
+        <ACDCodeRef>B24</ACDCodeRef>
+        <ACDCodeRef>B25</ACDCodeRef>
+        <ACDCodeRef>B26</ACDCodeRef>
+        <ACDCodeRef>U03</ACDCodeRef>
+        <ACDCodeRef>U07</ACDCodeRef>
+        <ACDCodeRef>U08</ACDCodeRef>
+        <ACDCodeRef>U09</ACDCodeRef>
+        <ACDCodeRef>U11</ACDCodeRef>
+        <ACDCodeRef>U11</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>Serious</Name>
+        <ACDCodeRef>B56</ACDCodeRef>
+        <ACDCodeRef>B57</ACDCodeRef>
+        <ACDCodeRef>B91</ACDCodeRef>
+        <ACDCodeRef>M34</ACDCodeRef>
+        <ACDCodeRef>M42</ACDCodeRef>
+        <ACDCodeRef>M84</ACDCodeRef>
+        <ACDCodeRef>M85</ACDCodeRef>
+        <ACDCodeRef>S15</ACDCodeRef>
+        <ACDCodeRef>S16</ACDCodeRef>
+        <ACDCodeRef>S21</ACDCodeRef>
+        <ACDCodeRef>S26</ACDCodeRef>
+        <ACDCodeRef>S31</ACDCodeRef>
+        <ACDCodeRef>S36</ACDCodeRef>
+        <ACDCodeRef>S41</ACDCodeRef>
+        <ACDCodeRef>S71</ACDCodeRef>
+        <ACDCodeRef>S81</ACDCodeRef>
+        <ACDCodeRef>S91</ACDCodeRef>
+        <ACDCodeRef>S92</ACDCodeRef>
+        <ACDCodeRef>U31</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>Railroad</Name>
+        <ACDCodeRef>M10</ACDCodeRef>
+        <ACDCodeRef>M20</ACDCodeRef>
+        <ACDCodeRef>M21</ACDCodeRef>
+        <ACDCodeRef>M22</ACDCodeRef>
+        <ACDCodeRef>M23</ACDCodeRef>
+        <ACDCodeRef>M24</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>OutOfService</Name>
+        <ACDCodeRef>B19</ACDCodeRef>
+        <ACDCodeRef>B27</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>Falsify</Name>
+        <ACDCodeRef>D30</ACDCodeRef>
+        <ACDCodeRef>D31</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>PatriotAct</Name>
+        <ACDCodeRef>W09</ACDCodeRef>
+    </OffenseClassification>
+
+    <OffenseClassification>
+        <Name>Other</Name>
+        <ACDCodeRef>W70</ACDCodeRef>
+    </OffenseClassification>
+</OffenseClassifications>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:simpleType name="JurisdictionCodeType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[A-Z]{2}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:simpleType name="JurisdictionCategoryType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="State"/>
+            <xs:enumeration value="Military"/>
+            <xs:enumeration value="Federal"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="JurisdictionType">
+        <xs:sequence>
+            <xs:element name="Code" type="JurisdictionCodeType"/>
+            <xs:element name="Name" type="xs:string"/>
+            <xs:element name="Category" type="JurisdictionCategoryType"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:element name="Jurisdictions">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Jurisdiction" type="JurisdictionType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
